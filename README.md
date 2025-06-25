@@ -6,7 +6,6 @@ A simple PowerShell script that monitors `.log` files for `ERROR` and `CRITICAL`
 - Scans `.log` files in `C:\Logs`
 - Generates a `report.txt` with error/critical lines
 - Archives logs older than 7 days into zip files
-- Optional email notification using Gmail SMTP
 
 ## How to Use
 1. Save the `logManager.ps1` script to `C:\Logs`
